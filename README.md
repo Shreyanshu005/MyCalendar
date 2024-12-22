@@ -12,12 +12,17 @@ This project is a responsive calendar application built with **React**, **Tailwi
   - Add new events with title, start time, end time, description, and category.
   - Search and filter events by title.
   - Remove events.
+  - Edit events.
+  - Drag and drop events to reschedule.
 - **Export Events**:
   - Export events as JSON.
   - Export events as CSV.
 - **Smooth Animations**: Page elements are animated using Framer Motion.
 
 ---
+## Screenshots
+![Alt text]([https://example.com/image.jpg](https://i.ibb.co/5TKnbQX/Screenshot-2024-12-22-at-12-57-41-PM.png))
+![Alt text]([https://example.com/image.jpg](https://i.ibb.co/Q8yM145/Screenshot-2024-12-22-at-12-57-51-PM.png))
 
 ## Technologies Used
 
@@ -64,6 +69,8 @@ This project is a responsive calendar application built with **React**, **Tailwi
   - Use the search bar to find events by title.
 - **Remove Events**:
   - Click "Remove" next to an event to delete it.
+- **Edit Events**:
+  - Click "Edit" next to an event to edit it.
 - **Export Events**:
   - Click "Export JSON" to download events in JSON format.
   - Click "Export CSV" to download events in CSV format.
