@@ -21,8 +21,8 @@ This project is a responsive calendar application built with **React**, **Tailwi
 
 ---
 ## Screenshots
-![Alt text]([https://example.com/image.jpg](https://i.ibb.co/5TKnbQX/Screenshot-2024-12-22-at-12-57-41-PM.png))
-![Alt text]([https://example.com/image.jpg](https://i.ibb.co/Q8yM145/Screenshot-2024-12-22-at-12-57-51-PM.png))
+![Alt text](https://i.ibb.co/5TKnbQX/Screenshot-2024-12-22-at-12-57-41-PM.png)
+![Alt text](https://i.ibb.co/Q8yM145/Screenshot-2024-12-22-at-12-57-51-PM.png)
 
 ## Technologies Used
 
