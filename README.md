@@ -32,7 +32,7 @@ This project is a responsive calendar application built with **React**, **Tailwi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/responsive-calendar-app.git
+   git clone https://github.com/Shreyanshu005/MyCalendar.git
    ```
 
 2. Navigate to the project directory:
@@ -79,12 +79,9 @@ responsive-calendar-app/
 │   └── favicon.ico
 ├── src/
 │   ├── components/
-│   │   ├── Calendar.js
-│   │   ├── DayCell.js
-│   │   ├── EventModal.js
-│   │   └── Header.js
-│   ├── App.js
-│   ├── index.js
+│   │   ├── Calendar.jsx
+│   ├── App.jsx
+│   ├── index.jsx
 │   ├── styles/
 │   │   └── index.css
 │   └── utils/
@@ -99,33 +96,8 @@ responsive-calendar-app/
 
 ---
 
-## Customization
 
-- **Theme Customization**:
-  - Modify the `tailwind.config.js` file to adjust colors, fonts, and other Tailwind CSS configurations.
-- **Animations**:
-  - Customize animations in components using Framer Motion properties.
-
----
 
 ## Deployment
-
-1. Build the project for production:
-   ```bash
-   npm run build
-   ```
-
-2. Deploy the `build/` folder to your hosting provider (e.g., Netlify, Vercel, or GitHub Pages).
-
----
-
-## Enhancements
-
-- Add recurring events.
-- Enable drag-and-drop event management.
-- Implement calendar syncing with Google or Outlook.
-- Add user authentication for event data storage.
-
----
-
+-https://my-calendar-gamma.vercel.app/
 
